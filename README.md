@@ -76,7 +76,16 @@ Pickle allow us to store datetime but we cant transfer pickle to other
 
 Duplicated the movie Datalist by using (movie_lists_copy=[x.copy() for x in movie_lists]) as it is dict and .copy() wont work.
 
+HelpFul Website for this Projects:
 
+https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films
 
+https://en.wikipedia.org/wiki/Toy_Story_3
+
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+https://www.w3schools.com/csSref/css_selectors.php
+
+https://www.w3schools.com/python/python_regex.asp
 
 
