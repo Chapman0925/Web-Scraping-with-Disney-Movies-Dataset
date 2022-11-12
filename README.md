@@ -1,6 +1,8 @@
 # Web-Scraping-Project-with-Disney-Movies-Dataset
 
-In this Project, I scraped the Disney Movie dataset from the WikiPedia website and display the finalized dataset in dataframe format as well as exporting it as csv file utilizing different Python Libraries such as BeautifulSoup, Requests, RegEx and Pandas.
+In this Project, I scraped the Disney Movie dataset from the WikiPedia website and display the finalized dataset in dataframe format as well as exporting it as csv file utilizing different Python Libraries such as BeautifulSoup, Requests, RegEx and Pandas. At the end I will utilizer the csv file that I have created from raw data and perfrom data analysis and answer some real life business questions.
+
+There are 2 ipynb file. First one consits of data scraping project and second one is the analysis work after the scrapping is completed
 
 1. Scrapping the infobox on the Toy Story 3  Wiki Page
 
@@ -67,6 +69,19 @@ Explaination of the code:
 - applying panda library to make it into df
 - export as CSV file
 
+
+
+In the second ipynb file, I perfrom some data cleaning and data analysis technique in order to answer some Real Life Business Questions:
+
+1. The top 30 Disney Movies with Highest Rotten Tomatoes Score ?
+
+2. The top 30 Disney Movies with Lowest IMDB Score ?
+
+3. Top 5 Disney Movies with the Highest Budget
+
+4. The correlation between Budget and Rotten Tomatoes score
+
+-- Performed Data Cleaning which includes converting data type and drop null values.
 
 Little Note
 
